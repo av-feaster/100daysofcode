@@ -1,0 +1,5 @@
+1.Squareroot.cpp
+   find the Square root of the  number.
+
+2.Peak element
+  link-https://www.interviewbit.com/problems/find-a-peak-element/
