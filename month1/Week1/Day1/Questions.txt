@@ -1,0 +1,9 @@
+1 Binary Search.cpp
+
+2.Sorted and ROtated Array
+  Question link-https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+
+3.Aggressive_Cows.cpp
+  Question link- https://www.spoj.com/problems/AGGRCOW/
+
+4. 
