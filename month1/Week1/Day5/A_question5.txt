@@ -1,2 +1,5 @@
 1 book_allocation problem
  link-https://www.interviewbit.com/problems/allocate-books/
+
+2 taum's birthday
+   link -https://www.hackerrank.com/challenges/taum-and-bday/problem?h_r=internal-search
