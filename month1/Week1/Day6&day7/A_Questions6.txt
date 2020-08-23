@@ -1,0 +1,2 @@
+1.Count no of 1's in decreasingly sorted array
+  link-https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
